@@ -12,15 +12,15 @@ This project aims to develop a machine learning model to predict whrthwer data s
 -LabelEncoder
 -SMOTE
 
-## MODELS
+## Models
 -Logistic Regression
 -Random Forest Classifier
 -LightGBM Classifier
 -XGBoost Classifier
 
-##Evaluation Metrics
+## Evaluation Metrics
 -Accuracy
--confusion Matrics
+-confusion Matrix
 -Precision
 -Recall
 -F1-Score
