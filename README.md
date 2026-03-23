@@ -30,4 +30,4 @@ ROC-AUC Score
 Among all evaluated models, LightGBM achieved the highest ROC–AUC score and demonstrated balanced performance across both classes. While XGBoost showed slightly higher recall for the attrition class, LightGBM provided better overall class separation and stability. Therefore, LightGBM was selected as the final model for employee retention prediction
 
 ## Author
-Keerthana
+Keerthana amin
